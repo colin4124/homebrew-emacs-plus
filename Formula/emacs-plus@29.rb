@@ -70,7 +70,7 @@ class EmacsPlusAT29 < EmacsBase
   # URL
   #
 
-  url "https://github.com/emacs-mirror/emacs.git", :branch => "master"
+  url "https://github.com/cxa/emacs.git", :branch => "29-usable-for-me"
 
   #
   # Icons
